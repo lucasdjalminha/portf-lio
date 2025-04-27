@@ -7,7 +7,7 @@
 
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: linear-gradient(45deg, #2111ff, #000000); /* Gradiente de fundo */
+    background: linear-gradient(45deg, #0d00ca, #000000); /* Gradiente de fundo */
     color: #fff;
     line-height: 1.6;
     padding: 0 20px;
@@ -77,7 +77,7 @@ nav ul li a:hover {
 #trabalhos h2 {
     font-size: 2.5rem;
     margin-bottom: 20px;
-    color: #2575fc;
+    color: #000ed8;
 }
 
 .trabalho {
